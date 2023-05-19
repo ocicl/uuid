@@ -1,0 +1,9 @@
+* uuid
+
+Common Lisp implementation of UUIDs according to RFC4122.
+
+|---------+------------------------------------------|
+| source  | git:https://github.com/dardoria/uuid.git |
+| commit  | f0052f3                                  |
+| systems | uuid                                     |
+|---------+------------------------------------------|
